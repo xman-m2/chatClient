@@ -1,2 +1,2 @@
 # chatClient
-A simple chat window
+A simple chat client
