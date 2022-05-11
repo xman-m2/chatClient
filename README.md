@@ -1,2 +1,2 @@
-# chatApplication
+# chatClient
 A simple chat application
